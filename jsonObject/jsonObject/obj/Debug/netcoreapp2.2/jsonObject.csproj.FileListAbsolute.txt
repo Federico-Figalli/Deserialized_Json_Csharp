@@ -1,0 +1,11 @@
+C:\Users\federico\Documents\Visual Studio 2017\Projects\jsonObject\jsonObject\bin\Debug\netcoreapp2.2\jsonObject.deps.json
+C:\Users\federico\Documents\Visual Studio 2017\Projects\jsonObject\jsonObject\bin\Debug\netcoreapp2.2\jsonObject.runtimeconfig.json
+C:\Users\federico\Documents\Visual Studio 2017\Projects\jsonObject\jsonObject\bin\Debug\netcoreapp2.2\jsonObject.runtimeconfig.dev.json
+C:\Users\federico\Documents\Visual Studio 2017\Projects\jsonObject\jsonObject\bin\Debug\netcoreapp2.2\jsonObject.dll
+C:\Users\federico\Documents\Visual Studio 2017\Projects\jsonObject\jsonObject\obj\Debug\netcoreapp2.2\jsonObject.csprojAssemblyReference.cache
+C:\Users\federico\Documents\Visual Studio 2017\Projects\jsonObject\jsonObject\obj\Debug\netcoreapp2.2\jsonObject.csproj.CoreCompileInputs.cache
+C:\Users\federico\Documents\Visual Studio 2017\Projects\jsonObject\jsonObject\obj\Debug\netcoreapp2.2\jsonObject.AssemblyInfoInputs.cache
+C:\Users\federico\Documents\Visual Studio 2017\Projects\jsonObject\jsonObject\obj\Debug\netcoreapp2.2\jsonObject.AssemblyInfo.cs
+C:\Users\federico\Documents\Visual Studio 2017\Projects\jsonObject\jsonObject\bin\Debug\netcoreapp2.2\jsonObject.pdb
+C:\Users\federico\Documents\Visual Studio 2017\Projects\jsonObject\jsonObject\obj\Debug\netcoreapp2.2\jsonObject.dll
+C:\Users\federico\Documents\Visual Studio 2017\Projects\jsonObject\jsonObject\obj\Debug\netcoreapp2.2\jsonObject.pdb
